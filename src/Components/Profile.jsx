@@ -1,10 +1,23 @@
-import react from 'react';
+import React from 'react';
 
 const Profile = () => {
     return (
-        <div>
-            <h1>photo walbum will go here</h1>
+        <div className="container">
+        <div className="row">
+          
+          <div className="col-sm">
+            One of three columns
+          </div>
+          
+          <div className="col-sm">
+            One of three columns
+          </div>
+          
+          <div className="col-sm">
+            One of three columns
+          </div>
         </div>
+      </div>
     )
 } 
 
