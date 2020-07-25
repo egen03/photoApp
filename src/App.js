@@ -31,12 +31,12 @@ function App() {
           <Route path="/home">
             <Home />
           </Route>
-          <Route path="/profile">
+          {/* <Route path="/profile">
             <Profile />
           </Route>
           <Route path="/bookmark">
             <Bookmark />
-          </Route>
+          </Route> */}
         </Switch>
       </div>
     </Router>
