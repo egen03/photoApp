@@ -34,7 +34,7 @@ function App() {
             <Profile />
           </Route>
           <Route path="/bookmark">
-            <Bookmarks />
+            <Bookmark />
           </Route>
         </Switch>
       </div>
