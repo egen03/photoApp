@@ -28,13 +28,13 @@ function App() {
             renders the first one that matches the current URL. */}
         <Switch>
           <Route path="/home">
-            <About />
+            < />
           </Route>
           <Route path="/profile">
-            <Users />
+            < />
           </Route>
           <Route path="/bookmark">
-            <Home />
+            < />
           </Route>
         </Switch>
       </div>
