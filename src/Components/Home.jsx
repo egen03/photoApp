@@ -3,7 +3,9 @@ import React from 'react';
 const Home = () => {
     return(
         <div>
-            <p>Hello World</p>
+            <h1>Hello</h1>
         </div>
     )
 }
+
+export default Home;
