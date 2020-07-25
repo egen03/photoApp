@@ -6,6 +6,7 @@ import {
   Link
 } from "react-router-dom";
 import Home from './Components/Home';
+import Profile from './Components/Profile';
 
 function App() {
   return (
@@ -31,10 +32,10 @@ function App() {
           <Route path="/home">
             <Home />
           </Route>
-          {/* <Route path="/profile">
+          <Route path="/profile">
             <Profile />
           </Route>
-          <Route path="/bookmark">
+          {/* <Route path="/bookmark">
             <Bookmark />
           </Route> */}
         </Switch>
