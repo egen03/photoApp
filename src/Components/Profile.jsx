@@ -7,7 +7,7 @@ const Profile = () => {
             <div className="row">
           
                 <div className="col-sm">
-                
+                <img src="..." class="rounded float-left" alt="..." />
                 </div>
           
                 <div className="col-sm">
