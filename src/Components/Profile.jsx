@@ -2,6 +2,7 @@ import React from 'react';
 
 const Profile = () => {
     return(
+<div className="profile">
 <div class="container">
   
   <div>
@@ -26,6 +27,9 @@ const Profile = () => {
   </div>
 
 </div>
+
+</div>
+
     )
 }
 
