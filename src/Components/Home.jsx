@@ -6,7 +6,9 @@ const Home = () => {
     return (
       <div className="homestyle">
       
-     
+      <div>
+          <h1 className="title">Erica's Favorite Foods</h1>
+      </div>
 
       <div className="container">
         
