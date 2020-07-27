@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import Home from './Components/Home';
 import Profile from './Components/Profile';
+import Bookmark from './Components/Bookmark';
 
 function App() {
   return (
@@ -39,10 +40,10 @@ function App() {
           <Route path="/profile">
             <Profile />
           </Route>
-          {/* <Route path="/bookmark">
+          <Route path="/bookmark">
             <Bookmark />
-          </Route> */}
-        </Switch>
+          </Route> 
+        </Switch> 
       </div>
     </Router>
   );
