@@ -26,7 +26,7 @@ const Profile = () => {
     <div className="col-md">
     <img src={require("/Users/student_ga111/Desktop/Cassini /mod2/wk3/homework/photoApp/photoapp/src/Components/Assets/Images/person2.jpeg")} class="rounded float-left" alt="Erin" height="250px" width="250px" />
     
-    <div>
+    <div className="username">
         <h6>UserName: Erin@Home</h6>
     </div>
     
@@ -35,7 +35,7 @@ const Profile = () => {
     <div className="col-md">
     <img src={require("/Users/student_ga111/Desktop/Cassini /mod2/wk3/homework/photoApp/photoapp/src/Components/Assets/Images/person3.jpeg")} class="rounded float-left" alt="Mike" height="250px" width="250px" />
     
-    <div>
+    <div className="username">
         <h6>UserName: MikeJagger</h6>
     </div>
 
