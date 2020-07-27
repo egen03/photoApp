@@ -4,6 +4,10 @@ const Profile = () => {
     return(
 <div class="container">
   
+  <div>
+      <h1>Top Bloggers</h1>
+  </div> 
+       
   <div class="row">
 
     <div class="col-md">
