@@ -2,6 +2,14 @@ import React from 'react';
 
 const Bookmark = () => {
     return (
+  <div className="homestyle"> 
+
+    <div className="title">
+        <h1>My Bookmarks</h1>  
+    </div> 
+    <p className="descript">
+        Here are all your saved bookmarks. Click on the photo for the recipe.
+    </p>  
         <div class="container">
   <div class="row">
     <div class="col-sm">
@@ -15,6 +23,8 @@ const Bookmark = () => {
     </div>
   </div>
 </div>
+
+</div>  
     )
 }
 
