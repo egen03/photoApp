@@ -5,11 +5,11 @@ const Profile = () => {
     return(
 <div className="profile">
 
-    <div class="container">
+    <div className="container">
   
   <div>
-      <h1>Top Bloggers</h1>
-      <p>These users have the most likes and followers </p>
+      <h1 className="title">Top Bloggers</h1>
+      <p className="descript">These users have the most likes and followers </p>
   </div> 
 
   <div className="row">
