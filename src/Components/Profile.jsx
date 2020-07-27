@@ -17,7 +17,7 @@ const Profile = () => {
     <div className="col-md">
     <img src={require("/Users/student_ga111/Desktop/Cassini /mod2/wk3/homework/photoApp/photoapp/src/Components/Assets/Images/person1.jpeg")} class="rounded float-left" alt="Makayla" height="250px" width="250px" />
     
-    <div>
+    <div className="username">
         <h6>UserName: kayla_Wins</h6>
     </div>
 
