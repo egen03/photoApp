@@ -8,6 +8,7 @@ import {
 import Home from './Components/Home';
 import Profile from './Components/Profile';
 import Bookmark from './Components/Bookmark';
+import Login from './Components/Login';
 
 function App() {
   return (
