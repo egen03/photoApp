@@ -7,8 +7,8 @@ const Home = () => {
       <div className="homestyle">
       
       <div>
-          <h1 className="title">Erica's Favorite Foods</h1>
-          
+          <h1 className="title">Erica's Favorite Blogs</h1>
+          <p className="descript"> Below are some of my favorite food blogs. Browse the photos and click on them to find recipes.</p>
       </div>
 
       <div className="container">
