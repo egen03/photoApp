@@ -25,7 +25,7 @@ const Profile = () => {
             <div className="row">
           
                 <div className="col-sm">
-                    One of three columns
+                <img src={require("/Users/student_ga111/Desktop/Cassini /mod2/wk3/homework/photoApp/photoapp/src/Components/Assets/Images/salad.jpeg")} class="rounded float-left" alt="Salad" height="250px" width="250px" />
                 </div>
           
                 <div className="col-sm">
