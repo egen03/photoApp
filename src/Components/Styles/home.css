@@ -1,9 +1,11 @@
 .homestyle {
-    background-color: darkgray;
+    background-color:#9d6b53;
     padding: 20px;
 }
 
 .title{
     text-align: center;
     font-family: 'Libre Baskerville', serif;
+    color: white
+    
 }
