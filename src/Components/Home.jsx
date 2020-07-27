@@ -8,7 +8,7 @@ const Home = () => {
       
       <div>
           <h1 className="title">Erica's Favorite Blogs</h1>
-          <p className="descript"> Below are some of my favorite food blogs. Browse the photos and click on them to find recipes.</p>
+          <p className="descript"> Below are some of my favorite food blogs. Browse the photos and click on them to find recipes. Create an account to save the recipes and follow other bloggers.</p>
       </div>
 
       <div className="container">
@@ -31,7 +31,7 @@ const Home = () => {
 
             </div>
 
-
+<div className="secondrow">
             <div className="row">
           
                 <div className="col-sm">
@@ -48,7 +48,7 @@ const Home = () => {
 
   
             </div>
-
+</div>
       </div>
 
       </div>  

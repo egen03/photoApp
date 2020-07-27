@@ -6,8 +6,9 @@ const Profile = () => {
   
   <div>
       <h1>Top Bloggers</h1>
+      <p>These bloggers </p>
   </div> 
-       
+
   <div class="row">
 
     <div class="col-md">
