@@ -1,9 +1,14 @@
 import React from 'react';
+import './Styles/home.css';
 
 
 const Home = () => {
     return (
-        <div className="container">
+      <div className="homestyle">
+      
+     
+
+      <div className="container">
         
             <div className="row">
           
@@ -23,6 +28,7 @@ const Home = () => {
 
             </div>
 
+
             <div className="row">
           
                 <div className="col-sm">
@@ -41,6 +47,8 @@ const Home = () => {
             </div>
 
       </div>
+
+      </div>  
     )
 } 
 export default Home;
