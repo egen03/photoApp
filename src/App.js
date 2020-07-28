@@ -24,9 +24,7 @@ function App() {
       <Link to="/home" className="nav-link" >Home</Link>
       <Link to="/profile" className="nav-link" >Profiles</Link>
       <Link to="/bookmark" className="nav-link" >Bookmarks</Link>
-      <Link to="/login" className="nav-link" >
-        <button>Log In</button>
-      </Link>
+      <Link to="/login" className="nav-link" >Log In</Link>
 
     </div>
   </div>
@@ -43,6 +41,9 @@ function App() {
           </Route>
           <Route path="/bookmark">
             <Bookmark />
+          </Route> 
+          <Route path="/Login">
+            <Login />
           </Route> 
         </Switch> 
       </div>
